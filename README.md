@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @skippy
-- 🌱 I’m currently learning
 - 23'JLU Undergraduate CSer 💻
 - 2004 INFJ 🐒
+- 🌱 I’m currently learning
+
   - Backend Dev (Java)
   - AIGC Development (LLM APIs, Agent Systems)
   - AIGC 2D Generation (DiT)
