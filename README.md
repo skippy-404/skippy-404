@@ -7,7 +7,7 @@
   - AIGC Development (LLM APIs, Agent Systems)
   - AIGC 2D Generation (DiT)
 
-## Ing
+## ing
 
 #### Vue+SpringBoot `Z-log` [Welcome to fork me](https://github.com/skippy-404/z-log) 🎈🎈🎈  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Shoutout to Collaborators : [tocx1](https://github.com/tocx1/) [panghuTT](https://github.com/panghuTT) 👨 👸
 
