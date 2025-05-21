@@ -13,7 +13,7 @@
 
 #### MusicAPI Service `FetchMusicUtil` [Welcome to fork me](https://github.com/skippy-404/FetchMusicUtil)🎈🎈🎈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; shoutout to [nohup](https://github.com/imp2002) for the pro tips! 🙏
 
-## mylife [skippy.life](https://skippy.uno)
+## Check out [skippy.life](https://skippy.uno) for more info about me.
 <br>
 
 <!---
