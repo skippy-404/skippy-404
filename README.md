@@ -9,9 +9,9 @@
 
 ## ing
 
-#### Vue+SpringBoot `Z-log` [Welcome to fork me](https://github.com/skippy-404/z-log) 🎈🎈🎈  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Shoutout to Collaborators : [tocx1](https://github.com/tocx1/) [panghuTT](https://github.com/panghuTT) 👨 👸
+#### Vue+SpringBoot `Z-log` [Feel free to fork and contribute!](https://github.com/skippy-404/z-log) 🎈🎈🎈  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Shoutout to Collaborators : [tocx1](https://github.com/tocx1/) [panghuTT](https://github.com/panghuTT) 👨 👸
 
-#### MusicAPI Service `FetchMusicUtil` [Welcome to fork me](https://github.com/skippy-404/FetchMusicUtil)🎈🎈🎈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; shoutout to [nohup](https://github.com/imp2002) for the pro tips! 🙏
+#### MusicAPI Service `FetchMusicUtil` [Feel free to fork and contribute!](https://github.com/skippy-404/FetchMusicUtil)🎈🎈🎈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; shoutout to [nohup](https://github.com/imp2002) for the pro tips! 🙏
 
 ## Check out [skippy.life](https://skippy.uno) for more info about me.
 <br>
