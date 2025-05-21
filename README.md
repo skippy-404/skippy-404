@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning
 
   - Backend Dev (Java)
-  - AIGC Development (LLM APIs, Agent Systems)
+  - LLM Dev (LLM APIs, Agent Systems)
   - AIGC 2D Generation (DiT)
 
 ## ing
