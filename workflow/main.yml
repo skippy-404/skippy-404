@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -22,11 +22,11 @@ jobs:
 
     steps:
       - name: generate github stats card
-        uses: LuciNyan/pixel-profile/action@main
+        uses: skippy-404/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=LuciNyan&theme=crt
+            dist/github-stats?username=skippy-404&screen_effect=false&theme=fuji&dithering=true&hide=avatar
+            dist/github-stats-dark?username=skippy-404&theme=crt
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
