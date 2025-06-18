@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @skippy
+# 👋 Hi, I’m @skippy
 - 23'JLU Undergraduate CSer 💻
 - 🌱 I’m currently learning
   - Backend Dev (Java)
   - LLM Dev (LLM APIs, Agent Systems)
   - AIGC 2D Generation (DiT)
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&theme=crt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&theme=crt">
-</picture>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&theme=crt" alt="Stats">
 
 <!---
 skippy-404/skippy-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
