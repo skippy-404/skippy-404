@@ -1,12 +1,12 @@
-# 👋 Hi, I’m @skippy
+# 👋 Hi, I'm @skippy
 - 23'JLU Undergraduate CSer 💻
-- 🌱 I’m currently learning
+- 🌱 I'm currently learning
   - Backend Dev (Java)
   - LLM Dev (LLM APIs, Agent Systems)
   - AIGC 2D Generation (DiT)
 
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&theme=crt&hide=rank)
+![GitHub Stats](https://raw.githubusercontent.com/skippy-404/skippy-404/output/github-stats.png)
 
 
 <!---
