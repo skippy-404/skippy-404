@@ -6,7 +6,11 @@
   - AIGC 2D Generation (DiT)
 
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&theme=crt&hide=rank&v=1)
+<picture decoding="async" loading="lazy">
+<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skippy-404/skippy-404/output/github-stats.png"> -->
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skippy-404/skippy-404/output/github-stats-dark.png"> -->
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=skippy-404&theme=road_trip&hide=rank">
+</picture>
 
 
 <!---
