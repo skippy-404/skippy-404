@@ -1,0 +1,25 @@
+name: Update GitHub Stats Card
+
+on:
+  schedule:
+    # Runs every 8 hours
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download GitHub stats card
+        run: >-
+          curl "https://github-readme-stats.vercel.app/api?username=skippy-404&show_icons=true&theme=merko&hide_rank=true" -o ./github-stats.svg
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github stats card"
+          file_pattern: github-stats.svg 
