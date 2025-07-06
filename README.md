@@ -6,7 +6,7 @@
   - AIGC 2D Generation (DiT)
 
 
-![Anurag's GitHub stats](./github-stats.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skippy-404&show_icons=true&theme=merko&hide_rank=true)
 
 
 <!---
