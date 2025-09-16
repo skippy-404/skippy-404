@@ -2,8 +2,7 @@
 - 23'JLU Undergraduate CSer 💻
 - 🌱 I'm currently learning
   - Backend Dev (Java)
-  - LLM Dev (LLM APIs, Agent Systems)
-  - AIGC 2D Generation (DiT)
+  - LLM Dev (Agent Systems)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skippy-404&show_icons=true&theme=merko&hide_rank=true)
