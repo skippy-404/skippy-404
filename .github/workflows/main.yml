@@ -21,13 +21,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate github stats card
-        uses: skippy-404/pixel-profile/action@main
-        with:
-          outputs: |
-            dist/github-stats?username=skippy-404&screen_effect=false&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=skippy-404&theme=crt
-
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
